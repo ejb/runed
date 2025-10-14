@@ -1,5 +1,12 @@
 # runed
 
+## 0.36.0
+
+### Minor Changes
+
+- feat(IsIdle): add `trackLastActive` option to enable users to disable tracking the `lastActive`
+  time ([#363](https://github.com/svecosystem/runed/pull/363)) for performance optimizations
+
 ## 0.35.1
 
 ### Patch Changes
